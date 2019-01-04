@@ -1,0 +1,12 @@
+{
+  "disabled": false,
+  "bindings": [
+    {
+      "name": "file",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "ordermanagementblob/omexceltocsv",
+      "connection":"ordermanagementblob"
+    }
+  ]
+}
